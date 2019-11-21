@@ -2372,32 +2372,32 @@
   country: India
   fourteen: No
   traffic: No
-  timestamps: Yes
-  bandwidth: Yes
+  timestamps: No
+  bandwidth: No
   ip: No
   sessions:
   dns:
   personal: No
-  bitcoin: No ## appears to be out of service
+  bitcoin: Yes
   eff: No
   pgp: No
   warrant: No
-  dnsservers: No
+  dnsservers: Yes
   openvpn: Yes
   smtp:
   p2p: Some
   apis_used: 23
   ssl_rating: C
-  num_connections: 5
-  num_countries: 31
+  num_connections: 6
+  num_countries: 33
   num_servers:
-  price_annual: $4.95
-  price_month: $0.99
+  price_annual: $47.88
+  price_month: $6.99
   trial: No
   refund: 30
-  desc:
-  url:
-  img:
+  desc: SwitchVPN offers high-speed privacy oriented VPN service with p2p support along with servers in 43 locations.
+  url: https://switchvpn.net
+  img: switchvpn.png
 - service: SurfEasy
   country: Canada
   fourteen: Yes
